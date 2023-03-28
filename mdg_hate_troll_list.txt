@@ -2436,6 +2436,7 @@ izmet_der_hauwi
 izmet_der_headbanger
 izmet_der_hirte
 izmet_der_klabauter
+izmet_der_koala
 izmet_der_lecker
 izmet_der_liebe
 izmet_der_luftikus
