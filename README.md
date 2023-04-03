@@ -6,26 +6,18 @@ In diesem Repository findet ihr die Bannlisten von TwitchModsDACH.
 Infos zu diesen Liste findet ihr [hier auf der Website](https://moonlight-design-studio.de/ban_lists/).  
 
 ### Dateien die mit "tmd" beginnen
-comming soon
-
-### Weitere Bannlisten
-comming soon
+Diese Listen werden vom TwitchModsDACH Team gepflegt.
+Bei gravierenden Verstößen können unsere Mitglieder einen Crossbann für einen Twitch Benutzer beantragen.
 
 # FAQ
 
 ## Wie kann ich diese Listen bannen?
-1. Installiere und aktiviere für deinen Browser die Erweiterung [Tempermonky](https://www.tampermonkey.net/). Damit kann man Javascripte im Browser ausführen.
-2. Nun kopiere den Inhalt der [twitchmassban.user.js](https://github.com/victornpb/twitch-mass-ban/blob/master/twitchmassban.user.js) als neues UserScript in [Tempermonky](https://www.tampermonkey.net/).
-3. Probleme mit Frankerz/BetterTTV/sonstige Erweiterungen für Twitch, verlangsamen das Bannen sehr, daher zum Bannen alle anderen Twitcherweiterungen solange ausschalten. (ca 2h sollten die Listen maximal benötigen)
-4. Du findest jetzt unten im Chat der Kanäle, in denen du Moderator bist, eine Hammer Symbol > bitte anklicken
-5. Es öffnet sich der Bannhammer, dort kopiert ihr die Liste der User rein die Ihr bannen wollt.
-6. Dann auf BanAll klicken und los gehts.
-7. Der Tab muss offen bleiben solange ihr bannt.
+Wirf hierzu einen Blick auf unseren [TwitchModsDACH Bann-Hammer](https://github.com/TwitchmodsDACH/Bann-Hammer/)
 
 ## Ich stehe als Twitch Benutzer auf einer der Bannlisten, was nun?
-Da wir eine geschlossene Community sind, ist der Link zum Discord nicht öffentlich.
-Lasse dich von einem Kanal, in dem du gebannt bist, auf unseren Discord einladen.
-Dort kannst du im "welcome"-Bereich einen Entbannungsantrag stellen, den wir dann prüfen werden.
+Der einzige Weg sich von der Liste nehmen zu lassen, ist einen Entbannungsantrag über unseren Discord zu stellen.
+Da wir eine geschlossene Community sind, ist der Link zum Discord nicht öffentlich und nur ein Mitglied unserer Community kann dich dort hin einladen. Dort kannst du im "welcome"-Bereich einen Entbannungsantrag stellen, den wir dann prüfen werden.
+Bitte wende dich hierzu an einen Modertor in einem Kanal in dem du gebannt bist.
 
 ## Mein Bot steht auf einer der Bot-Bannlisten. Wie kann ich ihn whitelisten lassen?
 Bei der Vielzahl an Bots, können wir nicht mehr sagen, welcher gut und böse ist. Grundsätzlich empfehlen wir unseren Mitgliedern so wenig Bots wie möglich in ihrem Kanal zu haben, da Bots als Angriffsvektor genutzt werden können.
