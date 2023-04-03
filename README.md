@@ -1,3 +1,4 @@
+![](logo.png)
 # TwitchModsDACH Bannlisten
 In diesem Repository findet ihr die Bannlisten von TwitchModsDACH.
 
