@@ -6,6 +6,7 @@ commanderroot
 creatisbot
 derschwarmbot
 dinu
+eisenfutzi
 fossabot
 lattemotte
 logviewer
