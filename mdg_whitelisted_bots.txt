@@ -33,6 +33,7 @@ streamholics
 streamjar
 streamkit
 streamlabs
+swiftyspiffy
 tehfl0w
 tipeeebot
 twitchmodsdach
