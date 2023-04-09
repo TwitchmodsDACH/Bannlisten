@@ -1,6 +1,7 @@
 7tvapp
 amazeful
 amazefulbot
+bot_awk
 buttsbot
 commanderroot
 creatisbot
