@@ -41,3 +41,4 @@ vivbot
 wizebot
 wzbot
 x_nsa_x
+xnanabot
