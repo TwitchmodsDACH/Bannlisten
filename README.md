@@ -18,7 +18,7 @@ Wirf hierzu einen Blick auf unseren [TwitchModsDACH Bann-Hammer](https://github.
 ## Ich stehe als Twitch Benutzer auf einer der Bannlisten, was nun?
 Der einzige Weg sich von der Liste nehmen zu lassen, ist einen Entbannungsantrag über unseren Discord zu stellen.
 Da wir eine geschlossene Community sind, ist der Link zum Discord nicht öffentlich und nur ein Mitglied unserer Community kann dich dort hin einladen. Dort kannst du im "welcome"-Bereich einen Entbannungsantrag stellen, den wir dann prüfen werden.
-Bitte wende dich hierzu an einen Modertor in einem Kanal in dem du gebannt bist.
+Bitte wende dich hierzu an einen Moderator in einem Kanal in dem du gebannt bist.
 
 ## Mein Bot steht auf einer der Bot-Bannlisten. Wie kann ich ihn whitelisten lassen?
 Bei der Vielzahl an Bots, können wir nicht mehr sagen, welcher gut und böse ist. Grundsätzlich empfehlen wir unseren Mitgliedern so wenig Bots wie möglich in ihrem Kanal zu haben, da Bots als Angriffsvektor genutzt werden können.
