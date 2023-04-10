@@ -36,6 +36,7 @@ streamlabs
 swiftyspiffy
 tehfl0w
 tipeeebot
+tooedgytobot
 twitchmodsdach
 vivbot
 wizebot
