@@ -2770,6 +2770,7 @@ izmet_der_anrufende
 izmet_der_anrufer
 izmet_der_arzt
 izmet_der_ast
+izmet_der_balrr
 izmet_der_barbar
 izmet_der_barbar1
 izmet_der_barbar2
@@ -5780,6 +5781,7 @@ rvn1909
 rw_hsnpnkla
 rx_seby
 rxp3_aimzz_twitch
+ryanausmaine
 rynbln
 rynie_
 rythmofsoul
