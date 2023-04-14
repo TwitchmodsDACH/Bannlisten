@@ -25,6 +25,7 @@ playwithviewersbot
 pokemoncommunitygame
 rainmaker
 sery_bot
+silasbots014
 songlistbot
 soundalerts
 streamdeckerbot
