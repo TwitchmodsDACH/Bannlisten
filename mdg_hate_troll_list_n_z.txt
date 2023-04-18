@@ -2539,6 +2539,7 @@ wuerzrich42
 wuppertalasozial
 wurdestangepupst
 wurschtpelle
+wurstbomber
 wurstbringer
 wurstbrot_21
 wurstbrot_oidaaa
@@ -2779,6 +2780,7 @@ zeltim_
 zementkopf
 zen0198
 zentralrat_der_fliesen
+zentralratderhaider
 zeqryy_racer
 zerebralemuellhalde
 zerfickun3
@@ -2800,6 +2802,7 @@ zigeunerschweine
 zigna44
 zigzack7
 zikail
+zikail7
 zikail323
 zikail724
 zimbocuh
