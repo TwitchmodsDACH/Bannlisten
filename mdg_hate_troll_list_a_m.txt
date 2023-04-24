@@ -1342,6 +1342,7 @@ der_pate_invictus_67
 der_pate_invictus_67_88
 der_pate_invicuts
 der_pateinvictus_67
+der_pimmlmann
 der_pinzgauer
 der_reinsch_heist
 der_stille_gast
