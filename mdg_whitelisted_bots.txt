@@ -12,6 +12,7 @@ eisenfutzi
 fossabot
 isnicable
 lattemotte
+littlemissmoonas_bot
 logviewer
 lolrankbot
 mdg_dev_security
