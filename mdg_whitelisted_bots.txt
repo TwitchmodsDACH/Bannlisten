@@ -11,6 +11,8 @@ echtkpvl
 eisenfutzi
 fossabot
 isnicable
+karottenkotzbot
+karottibot
 lattemotte
 littlemissmoonas_bot
 logviewer
