@@ -286,6 +286,7 @@ nwo_offizier
 nwo_oguzhan
 nwo_pizzalieferant
 nwo_pizzeria
+nwo_uwe42
 nwo_wassertierfan
 nwo_zentrale_emskirchen23
 nwoagentmimonzahaka
@@ -348,6 +349,7 @@ ogerhodnefettpadsagghaare
 ogerhodneoffiziell
 ogerpruegler000
 oglersson
+ognastea
 ogrehooden
 oguzhan011111
 ogzumbuddah
@@ -2272,6 +2274,7 @@ twitch_nyk
 twitch_polizel
 twitch_watcher67
 twitchbenutzer53
+twitchde1
 twitchfigur
 twitchgermanysupporthelp
 twitchnewcomers
@@ -2427,6 +2430,7 @@ verfassungsschutztwitch
 verfaulterogerfuss
 vergasernr_7b
 vergil878
+verkaufsverbot
 versacekek
 verschwoerungskoenig
 versicherungsdetektiv
@@ -2721,6 +2725,7 @@ wurstbringer
 wurstbrot_21
 wurstbrot_oidaaa
 wurstderbingos
+wurstf4ch
 wurstfach9000
 wurstfach_destroyer
 wurstfach_fachmann
