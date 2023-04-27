@@ -27,6 +27,7 @@ own3d
 playwithviewersbot
 pokemoncommunitygame
 rainmaker
+servicedroide
 sery_bot
 silasbots014
 songlistbot
