@@ -20,6 +20,8 @@ logviewer
 lolrankbot
 mdg_dev_security
 mikuia
+miramariebot
+mirawerner
 mirrobot
 moobot
 nightbot
