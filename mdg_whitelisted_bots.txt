@@ -12,6 +12,7 @@ echtkpvl
 eisenfutzi
 fossabot
 isnicable
+janinebans
 karottenkotzbot
 karottibot
 lattemotte
@@ -47,6 +48,7 @@ tipeeebot
 tooedgytobot
 twitchmodsdach
 vivbot
+widersinn
 wizebot
 wzbot
 x_nsa_x
