@@ -52,4 +52,5 @@ widersinn
 wizebot
 wzbot
 x_nsa_x
+xerxis42
 xnanabot
