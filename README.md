@@ -4,7 +4,7 @@ In diesem Repository findet ihr die Bannlisten von TwitchModsDACH.
 
 ## Datei Matrix
 ### Dateien die mit "mdg" beginnen
-Infos zu diesen Liste findet ihr [hier auf der Website](https://moonlight-design-studio.de/ban_lists/).  
+Infos zu diesen Liste findet ihr [hier auf der Website](https://github.com/isdsdataarchive/twitch_ban_lists#readme).  
 
 ### Dateien die mit "tmd" beginnen
 Diese Listen werden vom TwitchModsDACH Team gepflegt.
