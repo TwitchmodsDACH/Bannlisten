@@ -908,7 +908,6 @@ botfactory
 botfumante
 botisimo
 botmokvt
-botrixlive
 botu_d
 botwildboar
 bouaf
@@ -3082,7 +3081,6 @@ knightwalking
 knightwolfog
 kob1xx
 kodiakbrujah
-kofistreambot
 kogugiaku
 koik56236
 kojaeng2
@@ -5824,7 +5822,6 @@ vozmojno_slon
 vrl16432
 vrodah
 vseam
-vtuberplus
 vulkanfuz
 vuyyoltas
 vvildlol1tz
