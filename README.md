@@ -3,13 +3,9 @@
 In diesem Repository findet ihr die Bannlisten von TwitchModsDACH.
 
 ## Datei Matrix
-### Dateien die mit "mdg" beginnen
+### Dateien die mit "isds" beginnen
 Diese Listen werden vom Institut für Sicherheit und Datenanalyse bereitgestellt & gepflegt.
 Infos zu diesen Liste findet ihr [hier auf der Website des Institut](https://github.com/isdsdataarchive/twitch_ban_lists#readme).  
-
-### Dateien die mit "tmd" beginnen
-Diese Listen werden vom TwitchModsDACH Team gepflegt.
-Bei gravierenden Verstößen können unsere Mitglieder einen Crossbann für einen Twitch Benutzer beantragen.
 
 # FAQ
 
