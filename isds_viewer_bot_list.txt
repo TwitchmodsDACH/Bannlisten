@@ -113,6 +113,7 @@
 33kk
 33kk_bot
 45_rst50
+47vres
 54d0g
 57when
 69_78
@@ -1536,8 +1537,6 @@ dennitzo2
 derbetatester
 derccl
 deriding
-derpierre65
-derregie65
 derric6901
 dertyp7214
 dervox_
