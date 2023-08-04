@@ -42,6 +42,7 @@
 000000000000000003_blacks
 0003ocin
 007_bad_girl
+01_discord_for_streamers
 01aaliyah
 01ella
 01linn
@@ -5095,6 +5096,7 @@ smallsteramersdcserver
 smallstreamers_discord
 smallstreamersdccommunity
 smallstreamersdcserver
+smallstreamersdiscord_
 smartnesss
 smash00111
 smatify_
@@ -5770,8 +5772,8 @@ until0412
 until8525
 uor_ds_research
 upanishadss
-upiiftu	115
-upturns	973
+upiiftu_115
+upturns_973
 ur_mom2500
 urgfurugjjfjfjf
 urmominnit_1
