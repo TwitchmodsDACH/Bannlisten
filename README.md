@@ -17,3 +17,4 @@ Das Institut für Sicherheit und Datenanalsys im Streaming bietet über den unse
 
 Dazu einfach dem Discord von TwitchModsDACH beitreten und im öffentlichen Bereich ein Ticket im Kanal "Entbannungsanträge" erstellen.
 Wir werden dann dabei unterstützen den Sachverhalt zu klären.
+
